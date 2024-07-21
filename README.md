@@ -19,7 +19,7 @@
     </ul>
   </td>
   <td>
-    <img src="https://i.pinimg.com/736x/e6/7f/98/e67f9886aa66762bcc1ac62df0cb27aa.jpg" width="450px" alt="Your Image">
+    <img src="https://i.pinimg.com/originals/e4/fe/e2/e4fee29ce8bdc37dc8e0e135456c2e14.gif" width="450px" alt="Your Image">
   </td>
 </tr>
 </table>

@@ -11,10 +11,12 @@
 <tr>
   <td>
     <ul>
+      <li>🏫 Ecole Superieur Polytechnique Student</b></li>
       <li>🔭 I’m currently learning on <b>new stuff</b></li>
       <li>👨‍💻 My Portfolio <a href="https://khadimmbaye0.github.io/project_portfolio/">https://khadimmbaye0.github.io/project_portfolio/</a></li>
       <li>💬 Ask me about <b>react</b></li>
       <li>📫 How to reach me <b>khadimmbaye@esp.sn</b></li>
+      <li>🥷🏿 Out there tryna impress myself</b></li>
       <li>⚡ Fun fact <b>I'm not funny 🍷🗿</b></li>
     </ul>
   </td>

@@ -18,6 +18,7 @@
       <li>📫 How to reach me <b>khadimmbaye@esp.sn</b></li>
       <li>🥷🏿 Out there tryna impress myself</b></li>
       <li>⚡ Fun fact <b>I'm not funny 🍷🗿</b></li>
+      <li>🚀 Life Hack : Alwalys celebrate small wins</b></li>
     </ul>
   </td>
   <td>

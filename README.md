@@ -48,11 +48,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khadimmbaye0&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
-<tr border="none">
-<td colspan="2" align="center">
-  <p>Note: PHP is one of the languages I frequently use in my projects.</p>
-</td>
-</tr>
 </table>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

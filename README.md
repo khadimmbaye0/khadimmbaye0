@@ -36,7 +36,7 @@
 
   
   
-<table align="center">
+<table align="center" border="0">
 <tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&theme=dark&show_icons=true&count_private=true" />

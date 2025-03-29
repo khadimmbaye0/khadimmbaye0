@@ -1,68 +1,48 @@
-<div align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="70px">
+<div align="center" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/kWtMaZKYMv5snM8LNy/giphy.gif?cid=790b7611lcq9bqhkj89j0bwdhmostv1upjzksr4is1dq7iez&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-<h1 align="center">Hi 👋, I'm Khadim MBAYE</h1>
-<h3 align="center">A passionate Computer Science Student from SENEGAL 🇸🇳</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khadimmbaye0&label=Profile%20views&color=0e75b6&style=flat" alt="khadimmbaye0" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/griffith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khadim_v0.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khadim-MBAYE) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KHADIM_04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khadimmbaye@esp.sn) 
+
+<div style="display: flex">
+  <img src="https://i.pinimg.com/736x/4a/16/a2/4a16a2ac4c5fe7396e7d88fdc3454387.jpg" height="100" width="100" style="border-radius: 20px;">
+  <img src="https://i.pinimg.com/736x/f4/36/88/f43688bf5fee8469f214207a98296b1a.jpg" height="100" width="100" style="border-radius: 20px;">
+  <img src="https://i.pinimg.com/736x/4a/cd/ac/4acdac3196fb89807fa8b00596e35df4.jpg" height="100" width="100" style="border-radius: 20px;">
+  <img src="https://i.pinimg.com/736x/20/4c/be/204cbe69b0706550da7f99186cf0f3ca.jpg" height="100" width="100" style="border-radius: 20px;">
+</div>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<div style="display: flex">
+  <img src="https://i.pinimg.com/736x/66/21/c4/6621c4e6d13e3e159d8094e4c4c05f0b.jpg" style="border-radius: 20px;">
+</div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khadimmbaye0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khadimmbaye0&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khadimmbaye0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/3d/ab/a0/3daba02d4f638b552cfc849f2023ba72.jpg">
+</div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khadimmbaye0&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
-<table align="center" border="0">
-<tr>
-  <td>
-    <ul>
-      <li>🏫 Ecole Superieur Polytechnique Student</b></li>
-      <li>🔭 I’m currently learning on <b>new stuff</b></li>
-      <li>👨‍💻 My Portfolio <a href="https://khadimmbaye0.github.io/project_portfolio/">https://khadimmbaye0.github.io/project_portfolio/</a></li>
-      <li>💬 Ask me about <b>react</b></li>
-      <li>📫 How to reach me <b>khadimmbaye@esp.sn</b></li>
-      <li>🥷🏿 Out there tryna impress myself</b></li>
-      <li>⚡ Fun fact <b>I'm not funny 🍷🗿</b></li>
-      <li>🚀 Life Hack : Alwalys celebrate small wins</b></li>
-    </ul>
-  </td>
-  <td>
-    <img src="https://i.pinimg.com/originals/e4/fe/e2/e4fee29ce8bdc37dc8e0e135456c2e14.gif" width="450px" alt="Your Image">
-  </td>
-</tr>
-</table>
+[![](https://visitcount.itsvg.in/api?id=khadimmbaye0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  <h3 align="center">My Statistics:</h3>
-
-  
-  
-<table align="center" border="0">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khadim streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khadimmbaye0&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khadimmbaye0&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khadim mbaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadim mbaye" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://instagram.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soon" height="30" width="40" /></a>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a>  </p>
+  <img src="https://i.pinimg.com/originals/ff/02/d4/ff02d4e01750a2d32b5642700373e9f5.gif">
 </div>

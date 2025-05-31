@@ -1,5 +1,5 @@
-<div align="center" style="border-radius: 10px;">
-  <img src="https://media.giphy.com/media/kWtMaZKYMv5snM8LNy/giphy.gif?cid=790b7611lcq9bqhkj89j0bwdhmostv1upjzksr4is1dq7iez&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div align="center" style="border-radius: 10px; margin: 20px;">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 </div>
 <div align="center">
 

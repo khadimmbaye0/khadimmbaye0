@@ -16,7 +16,7 @@
  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 <div style="display: flex">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVhM2k0eDBnajdyanc1MXM5eWN0OWUzZGQ1aXFmY3N3bzZsdHJweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif" style="border-radius: 20px; border-radius: 10px;" width="900px">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%">
 </div>
 
 <div style="display: flex; flex-direction: row;">

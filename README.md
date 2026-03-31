@@ -9,12 +9,6 @@
 
 <div align="center" style="border-radius: 10px; margin: 20px;">
 </div>
-<div align="center">
-
-
-<div style="display: flex">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%">
-</div>
 
 <div align="center">
 
@@ -37,13 +31,11 @@
 
 </div>
 
-<div style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; flex-direction: row;">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khadimmbaye0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 

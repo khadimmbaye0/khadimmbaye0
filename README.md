@@ -80,35 +80,54 @@ class Khadim:
 
 <br/>
 
-## 📊 Currently Obsessed: Logistic Regression
+## 📊 Currently Obsessed: Machine Learning Foundations
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-```
-┌──────────────────────────────────────────┐
-│           LOGISTIC  REGRESSION            │
-│                                           │
-│   P(Y=1|X) = 1 / (1 + e^(-βX))           │
-│                                           │
-│   ▸ Odds ratios & log-odds                │
-│   ▸ Maximum Likelihood Estimation         │
-│   ▸ Decision boundaries                   │
-│   ▸ ROC curves & AUC                      │
-│   ▸ L1 / L2 regularization                │
-│   ▸ Multi-class: OvR & Softmax            │
-│                                           │
-│   "Probability is the language of         │
-│    uncertainty — logistic regression      │
-│    is how we speak it fluently."          │
-└──────────────────────────────────────────┘
+```text
+🧠  SUPERVISED LEARNING
+├─ Linear / Logistic Regression
+├─ Decision Trees & Random Forests  
+├─ SVM & Kernel Methods
+└─ Gradient Boosting (XGBoost, LightGBM)
+
+📐  MODEL EVALUATION
+├─ Train / Validation / Test splits
+├─ Cross-validation strategies
+├─ ROC-AUC, Precision-Recall curves
+└─ Bias-Variance tradeoff
+
+🔧  FEATURE ENGINEERING
+├─ Encoding categorical variables
+├─ Scaling & normalization
+├─ Handling missing data
+└─ Polynomial & interaction features
 ```
 
 </td>
-<td>
+<td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-5c5f73b80a0d.gif" width="200" alt="Math"/>
+```text
+📦  DATA ENGINEERING
+├─ ETL pipeline design
+├─ SQL query optimization
+├─ Data cleaning & validation
+└─ Apache Spark basics
+
+🛠️  MLOPS & TOOLING
+├─ Experiment tracking (MLflow)
+├─ Model serialization (pickle, ONNX)
+├─ Docker for reproducible envs
+└─ REST APIs for model serving
+
+📈  STATISTICS & MATH
+├─ Probability distributions
+├─ Maximum Likelihood Estimation
+├─ Gradient descent intuition
+└─ Linear algebra for ML
+```
 
 </td>
 </tr>

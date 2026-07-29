@@ -5,7 +5,7 @@
 <p>
   <samp>
     Artificial Intelligence & Big Data Engineering Student<br/>
-    <b>currently deep-diving into logistic regression</b> — odds ratios, decision boundaries &amp; all that.
+    <b>machine learning + data engineering</b> — building intelligent systems from the ground up.
   </samp>
 </p>
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/khadimmbaye0">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/khadimmbaye0">
+<a href="https://www.linkedin.com/in/khadim-mbaye-3ba585305/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:khadimmbaye.pro@gmail.com">
@@ -198,7 +198,7 @@ class Khadim:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79f-2642e2e9fa89.gif" width="100%">
 
 <br/>
 <br/>
@@ -209,6 +209,3 @@ class Khadim:
 
 <br/>
 
-<div align="center">
-  <samp>built with ☕ by <b>khadim</b> · <i>p(awesome) = 1.0</i></samp>
-</div>

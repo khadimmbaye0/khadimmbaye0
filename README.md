@@ -91,13 +91,13 @@ class Khadim:
 <br/>
 
 ```text
-   👨🏾‍💻  dev   ·   🤖  IA   ·   📊  data
+   👨🏾‍💻  dev   ·   🤖  AI   ·   📊  data
 
-   Passionné par la tech, le code et
-   tout ce qui touche à l'intelligence
-   artificielle. J'aime construire,
-   résoudre des problèmes complexes
-   et donner du sens aux données.
+   Passionate about tech, code, and
+   everything around artificial
+   intelligence. I love building,
+   solving complex problems, and
+   turning data into meaning.
 
    ——
 

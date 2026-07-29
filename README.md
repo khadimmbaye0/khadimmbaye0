@@ -80,36 +80,26 @@ class Khadim:
 
 <br/>
 
-## 🧠 What Drives Me
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-> *"The best way to understand data is to model it — the best way to model it is to feel it."*
-
-I'm drawn to the elegance of turning raw, messy data into something that makes sense. Whether it's a logistic curve fitting perfectly through a scatter plot, a pipeline humming in production, or a dashboard that tells a story at a glance — that moment when chaos becomes clarity is what I chase.
-
-Right now, I'm building strong foundations: statistics that stick, models that generalize, and systems that scale. Every dataset is a puzzle, every problem a chance to learn something new.
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e44d-1e1e-4e72-b3e7-3a3e6d2c91a1.gif" width="280" alt="abstract"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ```text
-✨  WHAT I BELIEVE
+⋆ ˚｡⋆୨୧˚
 
-   Great models start with great questions.
-   Clean data beats clever architectures.
-   Simplicity scales, complexity breaks.
-   Ship early, iterate often.
-   The best engineers never stop learning.
+   clean code   ·   bold ideas
+   late nights  ·   loud music
+   building things that last
 
-🎯  WHAT'S NEXT
+   always curious
+   forever learning
 
-   → Deploy my first ML model end-to-end
-   → Contribute to open-source data tools
-   → Master the art of feature engineering
-   → Build things that matter, with people I admire
+˚୨୧⋆｡˚ ⋆
 ```
 
 </td>
@@ -136,7 +126,7 @@ Right now, I'm building strong foundations: statistics that stick, models that g
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=111)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111)
 
-### ML & Data Science
+### ML & Data
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=111)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111)

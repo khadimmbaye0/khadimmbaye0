@@ -82,24 +82,28 @@ class Khadim:
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e44d-1e1e-4e72-b3e7-3a3e6d2c91a1.gif" width="280" alt="abstract"/>
-
+<td width="48%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Tech" style="border-radius: 12px;" />
 </td>
-<td width="50%">
+<td width="4%"></td>
+<td width="48%">
+
+<br/>
 
 ```text
-⋆ ˚｡⋆୨୧˚
+   👨🏾‍💻  dev   ·   🤖  IA   ·   📊  data
 
-   clean code   ·   bold ideas
-   late nights  ·   loud music
-   building things that last
+   Passionné par la tech, le code et
+   tout ce qui touche à l'intelligence
+   artificielle. J'aime construire,
+   résoudre des problèmes complexes
+   et donner du sens aux données.
 
-   always curious
-   forever learning
+   ——
 
-˚୨୧⋆｡˚ ⋆
+   ✦  always curious
+   ✦  forever learning
+   ✦  building with purpose
 ```
 
 </td>

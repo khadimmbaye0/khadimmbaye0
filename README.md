@@ -95,9 +95,9 @@ class Khadim:
 
    Passionate about tech, code, and
    everything around artificial
-   intelligence. I love building some
-   fun stuff, solving complex problems,
-   and turning data into meaning.
+   intelligence. I love learning new
+   things, breaking stuff and fixing
+   it back, one line of code at a time.
 
    ——
 

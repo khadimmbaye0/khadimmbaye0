@@ -51,11 +51,11 @@ class Khadim:
 
     def what_i_love(self):
         return [
-            "📈 Statistical modeling",
-            "🤖 Machine Learning pipelines",
-            "🧮 Logistic regression theory",
-            "📊 Data visualization",
-            "🔬 Turning data into decisions",
+            "🐍 Writing Python scripts",
+            "🤖 Exploring machine learning",
+            "📊 Making cool visualizations",
+            "🛠️ Building small projects",
+            "☕ Learning something new every day",
         ]
 
     def daily_driver(self):

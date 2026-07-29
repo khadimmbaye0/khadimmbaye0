@@ -5,7 +5,7 @@
 <p>
   <samp>
     Artificial Intelligence & Big Data Engineering Student<br/>
-    <b>machine learning + data engineering</b> — building intelligent systems from the ground up.
+    <b>currently deep-diving into machine learning foundations and data engineering ...</b>
   </samp>
 </p>
 

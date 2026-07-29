@@ -80,53 +80,36 @@ class Khadim:
 
 <br/>
 
-## 📊 Currently Obsessed: Machine Learning Foundations
+## 🧠 What Drives Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-```text
-🧠  SUPERVISED LEARNING
-├─ Linear / Logistic Regression
-├─ Decision Trees & Random Forests  
-├─ SVM & Kernel Methods
-└─ Gradient Boosting (XGBoost, LightGBM)
+> *"The best way to understand data is to model it — the best way to model it is to feel it."*
 
-📐  MODEL EVALUATION
-├─ Train / Validation / Test splits
-├─ Cross-validation strategies
-├─ ROC-AUC, Precision-Recall curves
-└─ Bias-Variance tradeoff
+I'm drawn to the elegance of turning raw, messy data into something that makes sense. Whether it's a logistic curve fitting perfectly through a scatter plot, a pipeline humming in production, or a dashboard that tells a story at a glance — that moment when chaos becomes clarity is what I chase.
 
-🔧  FEATURE ENGINEERING
-├─ Encoding categorical variables
-├─ Scaling & normalization
-├─ Handling missing data
-└─ Polynomial & interaction features
-```
+Right now, I'm building strong foundations: statistics that stick, models that generalize, and systems that scale. Every dataset is a puzzle, every problem a chance to learn something new.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```text
-📦  DATA ENGINEERING
-├─ ETL pipeline design
-├─ SQL query optimization
-├─ Data cleaning & validation
-└─ Apache Spark basics
+✨  WHAT I BELIEVE
 
-🛠️  MLOPS & TOOLING
-├─ Experiment tracking (MLflow)
-├─ Model serialization (pickle, ONNX)
-├─ Docker for reproducible envs
-└─ REST APIs for model serving
+   Great models start with great questions.
+   Clean data beats clever architectures.
+   Simplicity scales, complexity breaks.
+   Ship early, iterate often.
+   The best engineers never stop learning.
 
-📈  STATISTICS & MATH
-├─ Probability distributions
-├─ Maximum Likelihood Estimation
-├─ Gradient descent intuition
-└─ Linear algebra for ML
+🎯  WHAT'S NEXT
+
+   → Deploy my first ML model end-to-end
+   → Contribute to open-source data tools
+   → Master the art of feature engineering
+   → Build things that matter, with people I admire
 ```
 
 </td>

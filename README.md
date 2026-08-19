@@ -5,7 +5,7 @@
 <p>
   <samp>
     Artificial Intelligence & Big Data Engineering Student<br/>
-    <b>currently deep-diving into machine learning foundations and data engineering ...</b>
+    <b>currently deep-diving into machine learning (Code + Maths) and data engineering ...</b>
   </samp>
 </p>
 
@@ -47,7 +47,7 @@ class Khadim:
         self.role       = "AI & Big Data Student"
         self.location   = "Dakar, Senegal 🇸🇳"
         self.languages  = ["Python", "Java", "SQL", "JavaScript"]
-        self.current    = "Logistic Regression Deep Dive 📊"
+        self.current    = "Machine Learning Deep Dive 📊"
 
     def what_i_love(self):
         return [

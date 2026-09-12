@@ -131,7 +131,7 @@ class Khadim:
 <a href="https://www.java.com/" title="Java" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/></a>
-<a href="https://www.mysql.com/" title="SQL / MySQL" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/></a>
 
 ### ML & Data
 

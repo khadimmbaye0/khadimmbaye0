@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=7B1416&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Yo%2C+I'm+Khadim;AI+%26+Big+Data+Engineering+Student;Just+enjoying+the+process+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=7B1416&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Yo%2C+I'm+Khadim;AI+%26+Big[...]" />
 
 <p>
   <samp>
@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -75,7 +75,7 @@ class Khadim:
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -114,7 +114,7 @@ class Khadim:
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -125,34 +125,36 @@ class Khadim:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=111)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=111)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=111)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=111)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111)
+<!-- Icons instead of badges: using devicon / simpleicons SVGs -->
+
+<a href="https://www.python.org/" title="Python" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
+<a href="https://www.java.com/" title="Java" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/></a>
+<a href="https://www.mysql.com/" title="SQL / MySQL" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/></a>
 
 ### ML & Data
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=111)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=111)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=111)
+<a href="https://scikit-learn.org/" title="scikit-learn" style="margin:6px"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48"/></a>
+<a href="https://pandas.pydata.org/" title="Pandas" style="margin:6px"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48"/></a>
+<a href="https://numpy.org/" title="NumPy" style="margin:6px"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48"/></a>
+<a href="https://matplotlib.org/" title="Matplotlib" style="margin:6px"><img src="https://cdn.simpleicons.org/matplotlib/ffffff" alt="Matplotlib" width="48" height="48"/></a>
+<a href="https://jupyter.org/" title="Jupyter" style="margin:6px"><img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/></a>
 
 ### Frameworks & Tools
 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white&labelColor=111)
-![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=111)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=111)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=111)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=111)
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" height="48"/></a>
+<a href="https://spring.io/projects/spring-security" title="Spring Security" style="margin:6px"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" alt="Spring Security" width="48" height="48"/></a>
+<a href="https://reactjs.org/" title="React" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/></a>
+<a href="https://www.docker.com/" title="Docker" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/></a>
+<a href="https://git-scm.com/" title="Git" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -161,17 +163,17 @@ class Khadim:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=1a6ff5&icon_color=7c5ce7&text_color=c9d1d9&ring_color=1a6ff5" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=1a6ff5&text_color=c9d1d9" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0[...]"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=1a6ff5&text_colo[...]"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khadimmbaye0&theme=github-dark&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khadimmbaye0&theme=github-dark&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Strea[...]"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
@@ -194,7 +196,7 @@ class Khadim:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79f-2642e2e9fa89.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79f-2642e2e9fa89.gif" width="100%"/>
 
 <br/>
 <br/>

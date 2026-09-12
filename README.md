@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=7B1416&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Yo%2C+I'm+Khadim;AI+%26+Big[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=7B1416&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Yo%2C+I'm+Khadim;AI+%26+Big+Data+Engineering+Student" alt="Typing SVG" />
 
 <p>
   <samp>
@@ -80,45 +80,6 @@ class Khadim:
 
 <br/>
 
-<table>
-<tr>
-<td width="48%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Tech" style="border-radius: 12px;" />
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-<br/>
-
-```text
-   👨🏾‍💻  dev   ·   🤖  AI   ·   📊  data
-
-   Passionate about tech, code, and
-   everything around artificial
-   intelligence and data. I love
-   learning new
-   things, breaking stuff and fixing
-   it back, one line of code at a time.
-
-   ——
-
-   ✦  always curious
-   ✦  forever learning
-   ✦  building with purpose
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
-<br/>
-
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -163,10 +124,13 @@ class Khadim:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark&v=2" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khadimmbaye0&theme=github-dark&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Streak"/>
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=khadimmbaye0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Streak"/>
 
 </div>
 
@@ -206,4 +170,3 @@ class Khadim:
 </div>
 
 <br/>
-

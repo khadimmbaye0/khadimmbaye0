@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=7B1416&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Yo%2C+I'm+Khadim;AI+%26+Big+Data+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Khadim;AI+%26+Big+Data+Engineering+Student" />
 
 <p>
   <samp>
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 🧠 About Me
+## About Me
 
 <table>
 <tr>
@@ -45,17 +45,17 @@ class Khadim:
     def __init__(self):
         self.name       = "Khadim Mbaye"
         self.role       = "AI & Big Data Student"
-        self.location   = "Dakar, Senegal 🇸🇳"
+        self.location   = "Dakar, Senegal"
         self.languages  = ["Python", "Java", "SQL", "JavaScript"]
-        self.current    = "Machine Learning Deep Dive 📊"
+        self.current    = "Machine Learning Deep Dive"
 
     def what_i_love(self):
         return [
-            "🐍 Writing Python scripts",
-            "🤖 Exploring machine learning",
-            "📊 Making cool visualizations",
-            "🛠️ Building small projects",
-            "☕ Learning something new every day",
+            "Writing Python scripts",
+            "Exploring machine learning",
+            "Making cool visualizations",
+            "Building small projects",
+            "Learning something new every day",
         ]
 
     def daily_driver(self):
@@ -80,7 +80,7 @@ class Khadim:
 
 <br/>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ class Khadim:
 
 <br/>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -142,7 +142,7 @@ class Khadim:
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake-dark.svg" />
@@ -154,7 +154,7 @@ class Khadim:
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

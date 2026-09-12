@@ -138,7 +138,7 @@ class Khadim:
 <a href="https://scikit-learn.org/" title="scikit-learn" style="margin:6px"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48"/></a>
 <a href="https://pandas.pydata.org/" title="Pandas" style="margin:6px"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48"/></a>
 <a href="https://numpy.org/" title="NumPy" style="margin:6px"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48"/></a>
-<a href="https://matplotlib.org/" title="Matplotlib" style="margin:6px"><img src="https://cdn.simpleicons.org/matplotlib/ffffff" alt="Matplotlib" width="48" height="48"/></a>
+<a href="https://matplotlib.org/" title="Matplotlib" style="margin:6px"><img src="https://cdn.simpleicons.org/matplotlib/000000" alt="Matplotlib" width="48" height="48"/></a>
 <a href="https://jupyter.org/" title="Jupyter" style="margin:6px"><img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/></a>
 
 ### Frameworks & Tools

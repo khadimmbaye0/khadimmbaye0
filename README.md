@@ -9,53 +9,43 @@
   </samp>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="360" alt="Coding" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=khadimmbaye0&theme=github&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158775626%3Fu%3Df7de3f337a087246eec3ebc1bb4ff92c2ea48088%26v%3D4" alt="khadimmbaye0 hero visual" width="1200" />
+</p>
 
 <br/>
 <br/>
-
-<a href="https://github.com/khadimmbaye0">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/khadim-mbaye-3ba585305/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:khadimmbaye.pro@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
-<br/>
 
 ## About Me
 
+<div>
+
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="middle">
 
 ```python
 class Khadim:
     def __init__(self):
         self.name       = "Khadim Mbaye"
         self.role       = "AI & Big Data Student"
-        self.location   = "Dakar, Senegal"
+        self.location   = "Dakar, Senegal 🇸🇳"
         self.languages  = ["Python", "Java", "SQL", "JavaScript"]
-        self.current    = "Machine Learning Deep Dive"
+        self.current    = "Machine Learning Deep Dive 📊"
 
     def what_i_love(self):
         return [
-            "Writing Python scripts",
-            "Exploring machine learning",
-            "Making cool visualizations",
-            "Building small projects",
-            "Learning something new every day",
+            "🐍 Writing Python scripts",
+            "🤖 Exploring machine learning",
+            "📊 Making cool visualizations",
+            "🛠️ Building small projects",
+            "☕ Learning something new every day",
         ]
 
     def daily_driver(self):
@@ -64,7 +54,7 @@ class Khadim:
 ```
 
 </td>
-<td width="45%">
+<td width="45%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Data Science"/>
 
@@ -74,96 +64,121 @@ class Khadim:
 
 <br/>
 
+<table>
+<tr>
+<td width="48%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Tech" style="border-radius: 12px;" />
+</td>
+<td width="4%"></td>
+<td width="48%" valign="middle">
+
+<br/>
+
+```text
+   👨🏾‍💻  dev   ·   🤖  AI   ·   📊  data
+
+   Passionate about tech, code, and
+   everything around artificial
+   intelligence and data. I love
+   learning new
+   things, breaking stuff and fixing
+   it back, one line of code at a time.
+
+   ——
+
+   ✦  always curious
+   ✦  forever learning
+   ✦  building with purpose
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,scala,md&perline=8" alt="Languages" />
+</div>
+
+<h3 align="center">Frameworks · Cloud · Big Data</h3>
+<div align="center">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/openstack/ED1944" alt="OpenStack" />
+  <br/><br/>
+  <img height="48" src="https://cdn.simpleicons.org/apache" alt="Apache" />
+  <img height="48" src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" />
+  <img height="48" src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" />
+  <img height="48" src="https://cdn.simpleicons.org/apachehadoop" alt="Apache Hadoop" />
+</div>
+
+<h3 align="center">Data · Machine Learning</h3>
+<div align="center">
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /></a>
+  <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" /></a>
+  <br/><br/>
+  <a href="https://matplotlib.org/" title="Matplotlib"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" /></a>
+  <a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" /></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" /></a>
+  <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48" /></a>
+  <br/><br/>
+  <a href="https://keras.io/" title="Keras"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="48" height="48" /></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" /></a>
+  <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" /></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" /></a>
+</div>
+
+<h3 align="center">Developer Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github,gitlab,docker,postman,swagger&perline=7" alt="Developer tools" />
 </div>
 
 <br/>
 
-## Tech Stack
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <a href="https://github.com/khadimmbaye0">
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=khadimmbaye0&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/khadimmbaye0">
+    <img height="180" src="https://streak-stats.demolab.com/?user=khadimmbaye0&theme=shadow_blue&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khadimmbaye0&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-### Languages
+<br/>
 
-<!-- Icons instead of badges: using devicon / simpleicons SVGs -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<a href="https://www.python.org/" title="Python" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
-<a href="https://www.java.com/" title="Java" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/></a>
-
-### ML & Data
-
-<a href="https://scikit-learn.org/" title="scikit-learn" style="margin:6px"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48"/></a>
-<a href="https://pandas.pydata.org/" title="Pandas" style="margin:6px"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48"/></a>
-<a href="https://numpy.org/" title="NumPy" style="margin:6px"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48"/></a>
-<a href="https://matplotlib.org/" title="Matplotlib" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
-<a href="https://jupyter.org/" title="Jupyter" style="margin:6px"><img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="48" height="48"/></a>
-
-### Frameworks & Tools
-
-<a href="https://spring.io/projects/spring-boot" title="Spring Boot" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" height="48"/></a>
-<a href="https://spring.io/projects/spring-security" title="Spring Security" style="margin:6px"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" alt="Spring Security" width="48" height="48"/></a>
-<a href="https://reactjs.org/" title="React" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/></a>
-<a href="https://www.docker.com/" title="Docker" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/></a>
-<a href="https://git-scm.com/" title="Git" style="margin:6px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
+
+<h2>✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark&v=2" alt="Top Languages"/>
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=khadimmbaye0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/>
-
-<div align="center">
-
-### Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79f-2642e2e9fa89.gif" width="100%"/>
-
-<br/>
-<br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=khadimmbaye0&theme=github&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158775626%3Fu%3Df7de3f337a087246eec3ebc1bb4ff92c2ea48088%26v%3D4" alt="khadimmbaye0 social visual" width="980" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=khadimmbaye0&icon=5&color=1)](https://visitcount.itsvg.in)
 

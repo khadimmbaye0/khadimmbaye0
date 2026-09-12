@@ -163,10 +163,10 @@ class Khadim:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0[...]"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=1a6ff5&text_colo[...]"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimmbaye0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimmbaye0&layout=compact&hide_border=true&theme=github_dark"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khadimmbaye0&theme=github-dark&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Strea[...]"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khadimmbaye0&theme=github-dark&hide_border=true&background=0D1117&ring=1A6FF5&fire=1A6FF5&currStreakLabel=1A6FF5" alt="GitHub Streak"/>
 
 </div>
 

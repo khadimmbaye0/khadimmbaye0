@@ -135,8 +135,10 @@ class Khadim:
 </div>
 
 <h3 align="center">Developer Tools</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,git,github,gitlab,docker,postman,swagger&perline=7" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github,gitlab,docker,postman&perline=6" alt="Developer tools" />
+  <img src="https://cdn.simpleicons.org/swagger" alt="Swagger" width="48" height="48" />
 </div>
 
 <br/>

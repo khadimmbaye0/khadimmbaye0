@@ -14,6 +14,17 @@
 </p>
 
 <br/>
+
+<a href="https://github.com/khadimmbaye0">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/khadim-mbaye-3ba585305/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:khadimmbaye.pro@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 <br/>
 
 </div>
@@ -139,6 +150,7 @@ class Khadim:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=githubactions,git,github,gitlab,docker,postman&perline=6" alt="Developer tools" />
   <img src="https://cdn.simpleicons.org/swagger" alt="Swagger" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="Linux" />
 </div>
 
 <br/>

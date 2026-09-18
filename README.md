@@ -169,15 +169,11 @@ class Khadim:
 </div>
 
 <br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+ <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 </div>
 
 <br/>
@@ -187,14 +183,6 @@ class Khadim:
 <h2>✍️ Random Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=khadimmbaye0&theme=github&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158775626%3Fu%3Df7de3f337a087246eec3ebc1bb4ff92c2ea48088%26v%3D4" alt="khadimmbaye0 social visual" width="980" />
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=khadimmbaye0&icon=5&color=1)](https://visitcount.itsvg.in)
 
 </div>
 

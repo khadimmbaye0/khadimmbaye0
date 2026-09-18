@@ -174,6 +174,11 @@ class Khadim:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khadimmbaye0/khadimmbaye0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<div align="center">
+<img src="assets/Hiromi Higuruma-modified.png" style="border-radius: 20px;" width="40%">
+</div>
+
 </div>
 
 <br/>

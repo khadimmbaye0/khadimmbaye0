@@ -112,7 +112,7 @@ class Khadim:
 
 <h3 align="center">Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,scala,md&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,md&perline=8" alt="Languages" />
 </div>
 
 <h3 align="center">Frameworks · Cloud · Big Data</h3>

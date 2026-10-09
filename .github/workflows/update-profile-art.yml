@@ -1,7 +1,7 @@
 name: Update profile art
 
-# Refreshes the contribution heatmap + stats card SVGs daily from real public
-# GitHub data. Runs on a daily cron, on every push to main, and on demand.
+# Refreshes the contribution heatmap SVG daily from real public GitHub data.
+# Runs on a daily cron, on every push to main, and on demand.
 #
 # Only the two data dependencies are installed here: the portrait / stack
 # tools (pillow, numpy, opencv, rembg) are local-only and never run in CI.
@@ -35,16 +35,8 @@ jobs:
       - name: Render animated contribution heatmap
         run: python scripts/render_heatmap_svg.py
 
-      - name: Fetch public profile stats
-        run: python scripts/fetch_stats.py
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Render streak / numbers card
-        run: python scripts/render_stats_svg.py
-
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json data/stats.json contrib-heatmap.svg stats.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"

@@ -19,13 +19,6 @@
 <br>
 <br>
 
-<h3><code>khadim@github ~ $ ./stats.sh</code></h3>
-
-<img src="./stats.svg" width="860" alt="Khadim's stats — streaks, contributions, merged PRs, monthly activity" />
-
-<br>
-<br>
-
 <h3><code>khadim@github ~ $ ./stack.sh</code></h3>
 
 <img src="./stack.svg" width="860" alt="Khadim's tech stack — languages, frameworks, data/ML, developer tools" />

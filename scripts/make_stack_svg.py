@@ -44,7 +44,6 @@ GROUPS = [
         ("simple-icons:html5", "HTML5"),
     ]),
     ("Frameworks · Cloud · Big Data", GREEN, [
-        ("simple-icons:react", "React"),
         ("simple-icons:springboot", "Spring Boot"),
         ("simple-icons:amazonwebservices", "AWS"),
         ("simple-icons:terraform", "Terraform"),

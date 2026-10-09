@@ -1,5 +1,17 @@
 <div align="center">
 
+<h3><code>khadim@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./khadim-ascii.svg" width="370" alt="Khadim — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Khadim — neofetch-style info card" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
 <h3><code>khadim@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Khadim's contribution graph — auto-refreshed daily" />
@@ -10,18 +22,6 @@
 <h3><code>khadim@github ~ $ ./stats.sh</code></h3>
 
 <img src="./stats.svg" width="860" alt="Khadim's stats — streaks, contributions, merged PRs, monthly activity" />
-
-<br>
-<br>
-
-<h3><code>khadim@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./khadim-ascii.svg" width="370" alt="Khadim — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Khadim — neofetch-style info card" /></td>
-</tr>
-</table>
 
 <br>
 <br>

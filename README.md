@@ -19,13 +19,6 @@
 <br>
 <br>
 
-<h3><code>khadim@github ~ $ ./stack.sh</code></h3>
-
-<img src="./stack.svg" width="860" alt="Khadim's tech stack — languages, frameworks, data/ML, developer tools" />
-
-<br>
-<br>
-
 <h3><code>khadim@github ~ $ ./links.sh</code></h3>
 
 <a href="https://github.com/khadimmbaye0"><img src="./socials/github.svg" width="46" alt="GitHub"/></a>
